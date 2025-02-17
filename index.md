@@ -1,5 +1,5 @@
 ---
-title: Prxy Heaven
+title: Prxy-Heaven
 ---
 
 Links coming soon
